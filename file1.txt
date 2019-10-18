@@ -1,4 +1,0 @@
-THis is first file.
-
-Git is tracking my changes. 
-BLa bla bla. 
